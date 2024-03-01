@@ -1,3 +1,6 @@
 <template>
-hello
+    <div></div>
+<Header/>
+<HeroSection/>
 </template>
+
